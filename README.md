@@ -1,5 +1,5 @@
 # minimumCalendar
-minimumCalendar is a calendar application with minimal functionality.
+minimumCalendar is a calendar application with minimam functionality.
 
 # environment
 
